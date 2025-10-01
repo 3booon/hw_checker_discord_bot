@@ -57,3 +57,5 @@ jspm_packages/
 Thumbs.db
 
 __pycache__/
+
+config.py
